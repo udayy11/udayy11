@@ -2,7 +2,7 @@
 
 🎓 Computer science student at Bharati Vidyapeeth's College of Engineering, New Delhi.<br/>
 🐛 Developer in training | Data structures enthusiast.<br/>
-🎮 LeetCode and Strivers, Using Python and C++.<br/>
+🎮 LeetCode and Strivers, Using Python and Java.<br/>
 🔗 LinkedIn link - https://www.linkedin.com/in/uday-verma-b70ab621a/<br/>
 
 
